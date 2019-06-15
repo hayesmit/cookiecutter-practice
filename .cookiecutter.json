@@ -1,0 +1,16 @@
+{
+    "_template": "gh:hackoregon/2019-backend-cookiecutter-django",
+    "data_science_repo_name": "Name of repo where data science work is contained",
+    "data_science_repo_url": "cnn.com",
+    "email": "mitchell.hayes@hackoregon.org",
+    "full_name": "Mitchell Hayes",
+    "gis_project": "True",
+    "github_repo": "2019-test2-backend",
+    "github_username": "hayesmit",
+    "hack_oregon_team": "test2",
+    "project_short_description": "testing cookiecutter",
+    "python_package_namespace": "hackoregon_test2",
+    "python_subpackage": "toad",
+    "version": "0.1.0",
+    "year": "2019"
+}
